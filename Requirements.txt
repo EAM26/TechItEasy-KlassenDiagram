@@ -1,0 +1,15 @@
+1 Als medewerker wil ik kunnen zien hoeveel tv's er op voorraad zijn
+2 Als medewerker wil ik kunnen zien hoeveel rc's er op voorraad zijn
+3 Als medewerker wil ik kunnen zien hoeveel ic-modules er op voorraad zijn
+4 Als medewerker wil ik kunnen zien hoeveel wandbeugels er op voorraad zijn
+5 Als manager wil kunnen zien hoeveel producten er nog binnen komen
+6 Als manager wil ik de inkoopprijzen per soort product kunnen zien
+7 Als medwerker wil ik de verkoopprijzen per soort product kunnen zien
+8 Als admin wil ik de gegevevens van alle medewerkers kunnen opvragen en aanpassen
+9 Als medewerker wil ik een lijst met alle soorten tv's kunnen opvragen
+10 Als medewerker wil ik een lijst met alle soorten rc's kunnen opvragen
+11 Als medewerker wil ik een lijst met alle soorten ci modules kunnen opvragen
+12 Als medewerker wil ik een lijst met alle soorten muurbeugels kunnen opvragen
+13 Als admin wil ik nieuwe tv's kunnen toevoegen
+14 Als admin wil ik nieuwe rc's kunnen toevoegen
+15 Als admin wil ik nieuwe ci modules kunnen toevoegen
